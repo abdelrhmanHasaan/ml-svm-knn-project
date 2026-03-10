@@ -296,3 +296,56 @@ Responsibilities:
 ---
 
 # Project Structure
+
+---
+
+# Technologies Used
+
+Machine Learning
+
+Python  
+Scikit-learn  
+NumPy  
+Matplotlib  
+
+Frontend
+
+React  
+JavaScript  
+HTML  
+CSS  
+
+Development
+
+Git  
+GitHub  
+
+---
+
+# Educational Value
+
+This project provides an educational exploration of machine learning algorithms by combining theoretical explanations with visual demonstrations.
+
+Students can learn:
+
+• How classification algorithms work mathematically  
+• How decision boundaries are formed  
+• How models behave differently on the same data  
+• How machine learning systems integrate with web applications  
+
+---
+
+# Future Improvements
+
+Possible extensions include:
+
+• Adding more classification algorithms  
+• Implementing interactive dataset editing  
+• Supporting additional datasets  
+• Deploying the system online  
+
+---
+
+# Conclusion
+
+This project demonstrates how machine learning algorithms can be understood not only through mathematical equations but also through visual and interactive exploration. By comparing SVM and KNN on the same dataset, users can observe how different learning strategies influence classification decisions and model behavior.
